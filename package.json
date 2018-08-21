@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.1.11",
-    "hoek": "^5.0.4",
+    "hoek": "^4.2.1",
     "typescript": "~2.6.2"
   },
   "description": "An Ionic project"
